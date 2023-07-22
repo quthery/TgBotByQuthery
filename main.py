@@ -4,7 +4,7 @@ import random
 import webbrowser
 from kbs import kb_client
 
-token = "6192287978:AAG9X4Fw0K4mqLg5_k7YYJgq8T3rHm4btrI"
+token = " "
 bot = Bot(token=token)
 dp = Dispatcher(bot=bot)
 
